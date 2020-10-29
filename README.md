@@ -16,3 +16,4 @@ Build ID (v1.3.0): 3518bf2ead55fe6<br>
 可以配合适用微信小程序查阅宝可梦在游戏内的全形态样子和可学配招种族值等<br>
 
 # 使用方法
+<img src="https://i.imgur.com/Lz1lTXt.png"></br>
