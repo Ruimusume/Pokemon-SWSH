@@ -1,4 +1,4 @@
-# Pokemon-SWSH
+# Pokemon-SWSH Encounter Cheats
 
 Pokémon Sword
 Title ID: 0100ABF008968000
