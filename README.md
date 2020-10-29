@@ -1,4 +1,4 @@
-# Pokemon-SWSH Encounter Cheats
+# Pokemon-SWSH Encounter Cheats Code Generation
 
 Pokémon Sword<br>
 Title ID: 0100ABF008968000<br>
