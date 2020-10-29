@@ -1,5 +1,9 @@
 # Pokemon-SWSH Encounter Cheats Code Generation
 
+by 露易娘 Ruimusume</br>
+日站博客：http://ruisan.blog.jp/</br>
+微博：https://weibo.com/ruisan</br>
+
 Pokémon Sword<br>
 Title ID: 0100ABF008968000<br>
 Build ID (v1.3.0): 479bd2b581f4bc6a<br>
