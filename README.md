@@ -22,7 +22,9 @@ Build ID (v1.3.0): 3518bf2ead55fe6<br>
 
 本工具适用于初次接触宝可梦系列或认不了几个宝可梦的玩家用<br>
 如果不知道哪些宝可梦厉害或者比较帅<br>
-可以配合使用微信小程序查阅宝可梦在游戏内的全形态样子和可学配招种族值等<br>
+
+可以配合使用微信&QQ小程序查阅宝可梦在游戏内的全形态样子和可学配招种族值等<br>
+<img src="https://i.imgur.com/WAMNTar.jpg"></br>
 
 # 使用方法
 <img src="https://i.imgur.com/Lz1lTXt.png"></br>
